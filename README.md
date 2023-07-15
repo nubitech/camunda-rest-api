@@ -30,7 +30,7 @@ https://github.com/GIT_USER_ID/GIT_REPO_ID
 then install it via:
 
 ```shell
-    npm install GIT_USER_ID/GIT_REPO_ID --save
+    npm install npm install git@github.com:nubitech/camunda-rest-api.git --save
 ```
 
 ### For browser
