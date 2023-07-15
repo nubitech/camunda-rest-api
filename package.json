@@ -1,4 +1,5 @@
 {
+  "type":"module",
   "name": "camunda-rest-api",
   "version": "7.20.0",
   "description": "OpenApi_Spec_for_Camunda_Platform_REST_API_",
